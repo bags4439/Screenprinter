@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ScreenPrinterDemo.iml" filepath="$PROJECT_DIR$/../ScreenPrinterDemo.iml" group="ScreenPrinterDemo" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" group="ScreenPrinterDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/screenprinter.iml" filepath="$PROJECT_DIR$/screenprinter.iml" group="ScreenPrinterDemo/screenprinter" />
+    </modules>
+  </component>
+</project>

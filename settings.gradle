@@ -1,0 +1,2 @@
+rootProject.name='ScreenPrinter'
+include ':app', ':screenprinter'
